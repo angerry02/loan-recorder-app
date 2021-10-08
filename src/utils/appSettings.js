@@ -1,0 +1,1 @@
+export const AppLogoPath = 'https://www.vhv.rs/dpng/d/228-2280680_yourlogo-icon-your-logo-goes-here-hd-png.png';
