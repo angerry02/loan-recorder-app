@@ -1,5 +1,4 @@
 import { StyleSheet } from 'react-native';
-import { Colors } from 'react-native/Libraries/NewAppScreen';
 import { BorderColor } from '../../AppStyles';
 
 const styles = StyleSheet.create({
@@ -8,9 +7,9 @@ const styles = StyleSheet.create({
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
-        margin: 10
+        padding: 20
     },
-        input: {
+    input: {
         height: 40,
         margin: 10,
         borderWidth: 1,
